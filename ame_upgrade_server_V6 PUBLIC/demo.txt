@@ -1,0 +1,40 @@
+msg from company:
+
+Company: American Services
+Job: XJSDW
+Name: william
+Phone1: +18883334441  8138#
+Job Type: Car Lock-out
+2009 CHEVROLET malibu red
+Price: N/A
+Address: 11111 North Haggerty Road
+Plymouth, MI 48170
+Job Notes: possible car key made
+Please send K
+
+first msg to techs:
+
+24/7 Services USA
+Car Lock-out
+11111 North Haggerty Road
+Plymouth, MI 48170
+
+*** Pls reply with 'K' or 'Pass' + ZIPCODE ***
+
+if tech send k:
+sending to company k about the job
+
+sent to: detroid_jobs,body:
+K48170
+
+and sending to tech clean msg with our "LOGO"
+
+sent to: detroid_tech,body:
+24/7 Services USA
+XJSDW
+william
++18883334441  8138#
+Car Lock-out
+2009 CHEVROLET malibu red
+111111 Utica Road
+Fraser, MI 48026

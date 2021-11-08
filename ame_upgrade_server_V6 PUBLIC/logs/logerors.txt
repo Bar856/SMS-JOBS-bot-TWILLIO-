@@ -1,0 +1,4 @@
+26/06/2021 10:45:
+ERROR on send_msg2(): HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACd1308242681c1c6318e001b48ac5a4af/Messages.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001AE0B480820>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+26/06/2021 10:46:
+ERROR on send_msg2(): HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACd1308242681c1c6318e001b48ac5a4af/Messages.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001AE0B480C70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
